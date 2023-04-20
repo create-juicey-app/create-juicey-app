@@ -1,9 +1,9 @@
-<h2>Hi uhhm</h2>
-<h3>Can i ask you a question?</h3>
 <h1>How the hell did you find me?</h1>
+<h3>Well, uhm im Juicey</h3>
+
 
 I may not have a degree in computer science (yet), but I'm already on my way to becoming a professional idiot.
-I do NextJS, Lua, and Python.
+I do NextJS, Lua, and Python. 🥖And im french🥖
 Im not adult yet so dont recruit me yet lol
 I can write code that's just as buggy and confusing.
 I love & hate putting comments in my code
