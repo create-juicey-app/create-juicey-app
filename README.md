@@ -7,9 +7,8 @@
 <li>I can write code that's just as buggy and confusing.</li>
 <li>I love & hate putting comments in my code</li>
 <li>GNU-Linux (debian) enthusiasm</li>
+<h3>I suck at git so my score is extremely low.</h3>
 ___________________________________________________________________________________________
-<img height=250 src="https://www.funcage.com//photos/youre-music-is-annoying.jpg"/>
-
 [![Juicey's GitHub stats](https://github-readme-stats.vercel.app/api?username=create-juicey-app)](https://github.com/create-juicey-app/github-readme-stats)
 <!---
 create-juicey-app/create-juicey-app is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
