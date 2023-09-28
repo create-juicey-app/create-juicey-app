@@ -1,4 +1,4 @@
-<h1>How the hell did you find me?</h1>
+ <h1>How the hell did you find me?</h1>
 <h3>Well, uhm im Juicey</h3>
 
 
@@ -8,7 +8,9 @@
 <li>I love & hate putting comments in my code</li>
 <li>GNU-Linux (debian) enthusiasm</li>
 <h3>I suck at git so my score is extremely low.</h3>
-___________________________________________________________________________________________
+
+
+<br/>
 [![Juicey's GitHub stats](https://github-readme-stats.vercel.app/api?username=create-juicey-app)](https://github.com/create-juicey-app/github-readme-stats)
 <!---
 create-juicey-app/create-juicey-app is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
